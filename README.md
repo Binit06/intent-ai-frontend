@@ -1,4 +1,4 @@
-# ⚛️ React + Vite Frontend
+# ⚛️ Intent AI Frontend
 
 ![Intent AI ScreenShot](intent_ai_images.png)
 
