@@ -1,5 +1,7 @@
 # ⚛️ React + Vite Frontend
 
+![Intent AI ScreenShot](intent_ai_images.png)
+
 This is the minimal frontend for the **Intent Classification** system. It connects with a FastAPI backend that classifies user prompts using AI (Gemini/BERT).
 
 ---
